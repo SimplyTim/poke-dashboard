@@ -4,4 +4,4 @@ WORKDIR /home/shinyusr
 COPY data data
 COPY src src
 COPY www www
-CMD ["R", "-e", "shiny::runApp('.', host='0.0.0.0', port=3838)"]
+CMD ["R", "-e", "shiny::runApp('src', host='0.0.0.0', port=3838)"]
