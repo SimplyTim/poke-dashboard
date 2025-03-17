@@ -15,7 +15,7 @@ Gotta catch 'em all!
 
 # App Description
 
-<video controls src="img/demo.mp4" title="Poké-DashBoard Description"></video>
+https://github.com/SimplyTim/poke-dashboard/raw/refs/heads/main/img/demo.mp4
 
 
 ----
