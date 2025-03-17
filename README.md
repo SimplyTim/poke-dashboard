@@ -15,8 +15,8 @@ Gotta catch 'em all!
 
 # App Description
 
-https://github.com/SimplyTim/poke-dashboard/raw/refs/heads/main/img/demo.mp4
 
+https://github.com/user-attachments/assets/ad9b2331-ff3b-4508-acf7-a6e398fe63e1
 
 ----
 
