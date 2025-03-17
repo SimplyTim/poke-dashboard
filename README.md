@@ -15,7 +15,8 @@ Gotta catch 'em all!
 
 # App Description
 
-<INSERT VIDEO HERE>
+<video controls src="img/demo.mp4" title="Poké-DashBoard Description"></video>
+
 
 ----
 
@@ -58,6 +59,7 @@ Alternatively, you can navigate to the `src` folder, open the `app.R` file and c
 # Attributions
 
 The dataset obtained for this project was downloaded from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/pokemon).
+
 The sprites were obtained from [PokeAPI GitHub Repository](https://github.com/PokeAPI/sprites/tree/master/sprites/pokemon).
 
 
